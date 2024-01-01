@@ -26,7 +26,7 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="wayfire"
+	desktop="wayland"
 	dmDesktop="wayfire"
 
 	arcolinuxVersion='v24.02.01'
