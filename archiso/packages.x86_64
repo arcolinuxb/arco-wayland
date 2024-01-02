@@ -260,7 +260,7 @@ imagemagick
 #inkscape
 #libreoffice-fresh
 #lshw
-meld
+#meld
 #micro
 #nitrogen
 numlockx
@@ -464,8 +464,8 @@ python-pywal
 rate-mirrors-bin
 #scour
 #screenkey-git
-sublime-text-4
-the_platinum_searcher-bin
+#sublime-text-4
+#the_platinum_searcher-bin
 the_silver_searcher
 #trizen
 urxvt-fullscreen
@@ -560,6 +560,7 @@ arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
+#arcolinux-wayfire-profile-git
 #arcolinux-wayland-profile-git
 #arcolinux-xfce-panel-profiles-git
 #arcolinux-xmobar-git
@@ -587,6 +588,7 @@ arcolinux-zsh-git
 #arcolinux-herbstluftwm-git
 #arcolinux-hypr-git
 #arcolinux-hyprland-git
+arcolinux-hyprland-nemesis-git
 #arcolinux-i3wm-git
 #arcolinux-icewm-git
 #arcolinux-jwm-git
@@ -594,15 +596,20 @@ arcolinux-zsh-git
 #arcolinux-kodi-git
 #arcolinux-lxqt-git
 #arcolinux-mate-git
+arcolinux-newm-git
 #arcolinux-openbox-git
 #arcolinux-openboxb-git
 #arcolinux-openbox-xtended-git
 #arcolinux-plasma-git
 #arcolinux-plasma-nemesis-git
 #arcolinux-qtile-git
+arcolinux-river-git
 #arcolinux-spectrwm-git
 #arcolinux-sway-git
+arcolinux-sway-nemesis-git
 #arcolinux-ukui-git
+#arcolinux-wayfire-git
+arcolinux-wayfire-nemesis-git
 #arcolinux-worm-git
 #arcolinux-wmderland-git
 arcolinux-xfce-git
@@ -651,7 +658,7 @@ arcolinux-config-all-desktops-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
-#arcolinux-dconf-all-desktops-git
+arcolinux-dconf-all-desktops-git
 #arcolinux-awesome-dconf-git
 #arcolinux-berry-dconf-git
 #arcolinux-bspwm-dconf-git
@@ -678,6 +685,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-qtile-dconf-git
 #arcolinux-spectrwm-dconf-git
 #arcolinux-ukui-dconf-git
+#arcolinux-wayfire-dconf-git
 #arcolinux-worm-dconf-git
 #arcolinux-wmderland-dconf-git
 #arcolinux-xfce-dconf-git
@@ -754,14 +762,21 @@ adobe-source-han-sans-cn-fonts
 #arcob-calamares-config-kodi-git
 #arcob-calamares-config-leftwm-git
 #arcob-calamares-config-lxqt-git
+#arcob-calamares-config-marswm-git
 #arcob-calamares-config-mate-git
+#arcob-calamares-config-newm-git
 #arcob-calamares-config-openbox-git
 #arcob-calamares-config-pantheon-git
 #arcob-calamares-config-plasma-git
 #arcob-calamares-config-qtile-git
+#arcob-calamares-config-river-git
+#arcob-calamares-config-skywm-git
 #arcob-calamares-config-spectrwm-git
+#arcob-calamares-config-stumpwm-git
 #arcob-calamares-config-sway-git
 #arcob-calamares-config-ukui-git
+#arcob-calamares-config-wayfire-git
+arcob-calamares-config-wayland-git
 #arcob-calamares-config-worm-git
 #arcob-calamares-config-wmderland-git
 #arcob-calamares-config-xfce-git
@@ -796,7 +811,7 @@ arcolinux-sddm-simplicity-git
 #                         PICOM OR COMPTON
 ###########################################################################
 
-#picom
+picom
 
 ###########################################################################
 #                         GENERAL DESKTOP RELATED
@@ -912,33 +927,38 @@ thunar-archive-plugin
 #                                ISO SPECIFIC
 ###########################################################################
 
-a-candy-beauty-icon-theme-git
-arcob-calamares-config-wayland-git
-arcolinux-wayfire-dconf-git
+
+###########################################################################
+#                                COMMON WAYLAND
+###########################################################################
+
 arcolinux-foot-git
 arcolinux-kitty-git
+arcolinux-nwg-drawer-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
-arcolinux-wayfire-nemesis-git
+arcolinux-wallpapers-wayfire-git
+arcolinux-wayland-app-hooks-git
 arcolinux-xfce-git
+
+azote
 bashtop
 clipman
-dconf-editor
-dex
 feh
 foot
 gammastep
 grim
+grimshot
+hyprpicker-git
 kitty
-lf
 libdisplay-info
+light
 mako
 micro
-mpv
 nomacs-qt6-git
+nwg-drawer-bin
 pamixer
-polkit-gnome
-rofi-lbonn-wayland
+rofi-lbonn-wayland-only-git
 slurp
 swaybg
 swayidle
@@ -947,6 +967,7 @@ swww
 ttf-jetbrains-mono-nerd
 waybar
 waycheck
+waycheck
 wf-recorder-git
 wl-clipboard
 wlogout
@@ -954,11 +975,26 @@ wlr-randr
 wofi
 xdg-desktop-portal
 xdg-desktop-portal-wlr
-arcolinux-wallpapers-wayfire-git
 
-# git packages
+## wayfire 
 wayfire-git
 wayfire-plugins-extra-git
 wcm-git
 wf-kill-git
 wf-shell-git
+
+## sway
+sway
+wlroots-git
+swaybg-git
+#wlprop
+
+## hyprland
+hyprland-git
+waybar-hyprland-git
+
+## river
+river
+
+## newm
+newm-atha-git
