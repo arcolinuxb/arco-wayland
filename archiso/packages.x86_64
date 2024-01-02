@@ -932,6 +932,9 @@ thunar-archive-plugin
 #                                COMMON WAYLAND
 ###########################################################################
 
+qt5-wayland
+qt6-wayland
+
 arcolinux-foot-git
 arcolinux-kitty-git
 arcolinux-nwg-drawer-git
