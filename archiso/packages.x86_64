@@ -587,8 +587,8 @@ arcolinux-zsh-git
 #arcolinux-gnome-git
 #arcolinux-herbstluftwm-git
 #arcolinux-hypr-git
-#arcolinux-hyprland-git
-arcolinux-hyprland-nemesis-git
+arcolinux-hyprland-git
+#arcolinux-hyprland-nemesis-git
 #arcolinux-i3wm-git
 #arcolinux-icewm-git
 #arcolinux-jwm-git
@@ -605,11 +605,11 @@ arcolinux-newm-git
 #arcolinux-qtile-git
 arcolinux-river-git
 #arcolinux-spectrwm-git
-#arcolinux-sway-git
-arcolinux-sway-nemesis-git
+arcolinux-sway-git
+#arcolinux-sway-nemesis-git
 #arcolinux-ukui-git
-#arcolinux-wayfire-git
-arcolinux-wayfire-nemesis-git
+arcolinux-wayfire-git
+#arcolinux-wayfire-nemesis-git
 #arcolinux-worm-git
 #arcolinux-wmderland-git
 arcolinux-xfce-git
