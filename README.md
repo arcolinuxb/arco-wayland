@@ -1,8 +1,8 @@
-# ArcoLinux BYOI wayfire desktop
+# ArcoLinux BYOI wayland desktop
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-wayfire
+	git clone https://github.com/arcolinuxb/arco-wayland
 
 # Follow installation tutorials on
 
