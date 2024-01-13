@@ -986,8 +986,8 @@ wf-kill-git
 wf-shell-git
 
 ## sway
-sway
-wlroots-git
+sway-git-wlroots-git
+#wlroots-git
 swaybg-git
 #wlprop
 
