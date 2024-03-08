@@ -58,7 +58,7 @@ lvm2
 #lynx
 man-db
 man-pages
-mc
+#mc
 mdadm
 memtest86+
 memtest86+-efi
@@ -112,7 +112,7 @@ udftools
 usb_modeswitch
 usbmuxd
 usbutils
-vim
+#vim
 #virtualbox-guest-utils-nox
 vpnc
 wireless-regdb
@@ -275,7 +275,7 @@ variety
 #vlc
 
 ###conky
-jq
+#jq
 #lm_sensors
 
 ###cursors
@@ -304,7 +304,7 @@ ttf-ubuntu-font-family
 #adapta-gtk-theme
 arc-gtk-theme
 #arc-darkest-theme-git
-kvantum-qt5-git
+#kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
 
@@ -338,7 +338,7 @@ gparted
 #gtop
 hardinfo-gtk3
 #hddtemp
-htop
+#htop
 #hunspell
 #hunspell-en_US
 hw-probe
@@ -363,7 +363,7 @@ polkit-gnome
 #python2-dbus
 #python2-xdg
 #qt4
-qt5ct
+#qt5ct
 #qt5-styleplugins
 #qt5-tools
 #qt5-webkit
@@ -376,8 +376,8 @@ ripgrep
 #speedtest-cli-git
 #telegram-desktop
 #timeshift
-tlp
-#tree
+#tlp
+tree
 #ufw
 #gufw
 unace
@@ -441,9 +441,9 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-appstream-qt5
+#appstream-qt5
 #archiso
-conky-lua-archers
+#conky-lua-archers
 downgrade
 #font-manager
 #glxinfo
@@ -474,7 +474,7 @@ the_silver_searcher
 #urxvt-perls
 #urxvt-resize-font-git
 #wttr
-yad
+#yad
 #yakuake
 yay-bin
 
@@ -496,7 +496,7 @@ arcolinux-bin-git
 arcolinux-btop-git
 a-candy-beauty-icon-theme-git
 #arcolinux-common-git
-arcolinux-conky-collection-git
+#arcolinux-conky-collection-git
 #arcolinux-conky-collection-plasma-git
 #arcolinux-cron-git
 #arcolinux-docs-git
@@ -514,7 +514,7 @@ arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-hblock-git
 #arcolinux-hyprland-profile-git
 arcolinux-keyring
-arcolinux-kvantum-git
+#arcolinux-kvantum-git
 #arcolinux-kvantum-lxqt-git
 #arcolinux-kvantum-plasma-git
 arcolinux-local-applications-git
